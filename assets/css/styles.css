@@ -315,24 +315,25 @@ img {
   bottom: 0;
   background-color: var(--first-color);
   height: .25rem;
+
   border-radius: .5rem;
   z-index: var(--z-back);
 }
 
 .skills__html {
-  width: 95%;
+  width: 60%;
 }
 
 .skills__css {
-  width: 85%;
+  width: 0%;
 }
 
 .skills__js {
-  width: 65%;
+  width: 0%;
 }
 
 .skills__ux {
-  width: 85%;
+  width: 0%;
 }
 
 .skills__img {
